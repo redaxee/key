@@ -24,6 +24,7 @@ print(a+'[!]Success !')
 sleep(1)
 print(b+'\n[!] add File additional..')
 sleep(1)
+print(a+'[!]Success !')
 
 key = "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]"
 kontol = open('/data/data/com.termux/files/home/.termux/termux.properties','w')
